@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "無理やりzoom出来るようにしました 安定性は結構低めです",
+        "name": "Ptya_zoom_pack",
+        "uuid": "88bb6202-e6d5-42a8-bec7-4d9e315a2662",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "891e4b53-e394-48e3-b1c6-91ed2ec64840",
+            "version": [0, 0, 1]
+        }
+    ]
+}
